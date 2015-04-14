@@ -1,2 +1,2 @@
 # datasciencecoursera
-For evaluatio purposes
+For evaluation purposes
